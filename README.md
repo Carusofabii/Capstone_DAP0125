@@ -3,7 +3,7 @@
   <img src="THE QUERY BAR.png" alt="Logo The Query Bar" width="300"/>
 </p>
 
-📊 Business Intelligence Report – Bar Query 2025  
+📊 Business Intelligence Report – The Query Bar 2025  
 
 Questo progetto mostra un modello di analisi economico-finanziaria del Bar Query, con dati storici, forecast 2025 e indicatori di performance.  
 Il report è stato sviluppato in Power BI, con l’obiettivo di rendere chiari e accessibili i principali KPI economici, patrimoniali e operativi.  
